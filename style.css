@@ -69,16 +69,15 @@ main{
 
 .step-box{
   float: none;
-  width: 90%;
+  width: 100%;
   margin-bottom: 20px;
   padding: 10px;
   position: relative;
 }
-.step-img1{
-  height: 150px;
-  background-image: url(img/flow01.png);
-  
+
 }
+
+
 
 
 
